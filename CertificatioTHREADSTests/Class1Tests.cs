@@ -29,5 +29,15 @@ namespace CertificatioTHREADS.Tests
 
         }
 
+        [TestMethod()]
+        public void ValidaAlgo2()
+        {
+            Class1 clas = new Class1();
+            string cpf = "000";
+            string cpf = "56766";
+            Assert.IsNull(cpf);
+
+        }
+
     }
 }
