@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertificatioTHREADS", "CertificatioTHREADS\CertificatioTHREADS.csproj", "{0AAC21A9-17EF-4ACC-8698-990BEAB3FAE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertificatioTHREADSTests", "CertificatioTHREADSTests\CertificatioTHREADSTests.csproj", "{E22EA3AA-1157-4F1B-AD04-95C4C7AD4909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertificatioTHREADS.Tests", "CertificatioTHREADS.Tests\CertificatioTHREADS.Tests.csproj", "{F79336F5-6DFD-466D-A9EF-782C51B1C950}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{E1E7C3A1-B996-43E9-ABCE-B719C2B61314}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Arquivos\Arquivos_Area_de_trabalho\Bugigangas\Exam Ref 70-483 Programming in C#, Wouter de Kort, O-¦Reilly, 2013\Exam Ref 70-483 Programming in C#, Wouter de Kort, O-▌Reilly, 2013.pdf = ..\..\..\Arquivos\Arquivos_Area_de_trabalho\Bugigangas\Exam Ref 70-483 Programming in C#, Wouter de Kort, O-¦Reilly, 2013\Exam Ref 70-483 Programming in C#, Wouter de Kort, O-▌Reilly, 2013.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AAC21A9-17EF-4ACC-8698-990BEAB3FAE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AAC21A9-17EF-4ACC-8698-990BEAB3FAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AAC21A9-17EF-4ACC-8698-990BEAB3FAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AAC21A9-17EF-4ACC-8698-990BEAB3FAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E22EA3AA-1157-4F1B-AD04-95C4C7AD4909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E22EA3AA-1157-4F1B-AD04-95C4C7AD4909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E22EA3AA-1157-4F1B-AD04-95C4C7AD4909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E22EA3AA-1157-4F1B-AD04-95C4C7AD4909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79336F5-6DFD-466D-A9EF-782C51B1C950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79336F5-6DFD-466D-A9EF-782C51B1C950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79336F5-6DFD-466D-A9EF-782C51B1C950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79336F5-6DFD-466D-A9EF-782C51B1C950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
